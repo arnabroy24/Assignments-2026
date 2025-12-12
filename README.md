@@ -1,0 +1,1 @@
+You are provided with a single executable binary that prompts for a flag and prints PASS only when the correct value is entered; your task is to determine the correct flag. You may use any static or dynamic analysis tools of your choice, and no exploitation, brute forcing, or binary patching is required. 
